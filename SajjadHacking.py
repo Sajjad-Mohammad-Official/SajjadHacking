@@ -56,7 +56,7 @@ logo = """
 \033[1;96m         ____) | |_) |  __/  __/ (_| | |
 \033[1;96m        |_____/| .__/ \___|\___|\__,_|_|
 \033[1;96m               | |                      
-\033[1;96m               |_|   Aahil Updated 0.3                   
+\033[1;96m               |_|   Sajjad Updated 0.3                   
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
 """
 def tik():
@@ -100,12 +100,12 @@ jalan("\033[1;96m•◈• |_____/|_|    |______|______|_____/_____|")
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
-jalan("   \033[1;93m Welcome to Aahil Creations ")
+jalan("   \033[1;93m Welcome to Sajjad Creations ")
 
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "sajjad"
+CorrectPassword = "sajjad"
 
 
 loop = 'true'
@@ -118,10 +118,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open ')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open ')
 
 def login():
 	os.system('clear')
